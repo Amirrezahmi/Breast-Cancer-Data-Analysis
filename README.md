@@ -1,5 +1,7 @@
 We will conduct a comprehensive analysis of the dataset, focusing on identifying key features that influence outcomes. To achieve this, we will employ Logistic Regression and TabNet models to discern feature importance.
 
+For basic visualization see `Basic_about_dataset.ipynb`.
+
 # Dataset Explanation
 - id: Unique identifier for each patient.
 - age: Age of the patient.
